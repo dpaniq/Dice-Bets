@@ -1,4 +1,6 @@
 # dice-bets
+![alt text](https://github.com/dpaniq/Dice-Bets/blob/master/dice%20preview.png "Preview Dice Bets")
+
 
 ## Project setup
 ```
